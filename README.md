@@ -51,21 +51,21 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-### Prequisites
+### Prerequisites
 
 In order to run this project you need:
 
 - To install ruby on rails on your PC. You can read [this](https://guides.rubyonrails.org/) documentation on how to do so
 - Know how to navigate directories or folders at the CLI.
-- Know how to get the URL(https/ssh) of a repository on GitHub.
+- Know how to get a repository's URL(https/ssh) on GitHub.
 - You should have a code editor installed, preferably VSCode.
 
 ### Setup
 
-In desired folder or directory in the CLI, run the command:
+In the desired folder or directory in the CLI, run the command:
 
 ```JavaScipt
-cd clone https://github.com/RoyJumah/recipe-app.git
+git clone https://github.com/RoyJumah/recipe-app.git
 ```
 
 Navigate into the cloned folder or repository by running the command:
@@ -149,7 +149,7 @@ If you like this project you can give it a star
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-We would like to thank `Microverse` for providing us the resources that enabled us to finish this challenge!
+We want to thank `Microverse` for providing us with the resources that enabled us to finish this challenge!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
