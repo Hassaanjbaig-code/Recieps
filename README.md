@@ -71,7 +71,7 @@ git clone https://github.com/RoyJumah/recipe-app.git
 Navigate into the cloned folder or repository by running the command:
 
 ```JavaScript
- cd recipe_app
+ cd recipe-app
 ```
 
 If VsCode is your default code editor, run:
